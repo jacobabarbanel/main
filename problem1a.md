@@ -21,19 +21,14 @@ using this system. (Really, all you have to do is keep your code files
 in the folders that correspond to the appropriate repository on *GitHub*).
 Now let's update the script file `prob1.m`. 
 
-    1.  Create a copy of `prob1.m` and call it `satellite.m`
-    2.  Modify the program so that it also calculates and prints the
+1.  Create a copy of `prob1.m` and call it `satellite.m`
+1.  Modify the program so that it also calculates and prints the
         velocity *v* of the satellite at a particular *h*.
-
-    3.  Round off the orbital altitude and velocity before printing
-        them.
-
-    4. What happens when you set `T = [90 100 110 120 130]`? (*You should encounter an error*)
-    4. Modify the program so that it can accept an array for `T`
-
-    5.  Time permitting, be imaginative and add any other flourishs to the program.
-
-6.  Finally, push these modified files up to your *p1* GitHub repository and
+1. Round off the orbital altitude and velocity before printing them.
+1. What happens when you set `T = [90 100 110 120 130]`? (*You should encounter an error*)
+1. Modify the program so that it can accept an array for `T`
+1. Time permitting, be imaginative and add any other flourishs to the program.
+1. Finally, push these modified files up to your *p1* GitHub repository and
     check `github.com/Phys1211` to ensure that you were successful
 
 References 
