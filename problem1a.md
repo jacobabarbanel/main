@@ -23,7 +23,7 @@ Now let's update the script file `prob1.m`.
 
 1.  Create a copy of `prob1.m` and call it `satellite.m`
 1.  Modify the program so that it also calculates and prints the
-        velocity *v* of the satellite at a particular *h*.
+        velocity *v* (**in km/s**) of the satellite at a particular *h*.
 1. Round off the orbital altitude and velocity before printing them.
 1. What happens when you set `T = [90 100 110 120 130]`? (*You should encounter an error*)
 1. Modify the program so that it can accept an array for `T`.
