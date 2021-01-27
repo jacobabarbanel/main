@@ -26,7 +26,8 @@ Now let's update the script file `prob1.m`.
         velocity *v* of the satellite at a particular *h*.
 1. Round off the orbital altitude and velocity before printing them.
 1. What happens when you set `T = [90 100 110 120 130]`? (*You should encounter an error*)
-1. Modify the program so that it can accept an array for `T`
+1. Modify the program so that it can accept an array for `T`.
+1. Input several test cases to ensure you produce the expected results.
 1. Time permitting, be imaginative and add any other flourishs to the program.
 1. Finally, push these modified files up to your *p1* GitHub repository and
     check `github.com/Phys1211` to ensure that you were successful
