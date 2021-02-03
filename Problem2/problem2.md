@@ -11,8 +11,8 @@ The tedious part of any program is inputting data. Luckily, using the function `
 
 1. Create the repository `p2-[username]` by following the link: [GitHub](https://classroom.github.com/a/A499YDjC). You will save your work here.
 1. Modify the script called periodic.m so that it:
- a. Loads the data in `PeriodicTable.csv` into MATLAB. You choose the best method.
- a. Ensures that all text fields are strings and all numeric data are appropriate numeric types.
- a. Exports a subset of the data to a new file called `smallperiodictable.csv`. Specifically the columns: Atomic Number, Element, Symbol, Atomic Weight, Atomic Radius, Electronegativity, First Ionization Potential, and Density.
+ * Loads the data in `PeriodicTable.csv` into MATLAB. You choose the best method.
+ * Ensures that all text fields are strings and all numeric data are appropriate numeric types.
+ * Exports a subset of the data to a new file called `smallperiodictable.csv`. Specifically the columns: Atomic Number, Element, Symbol, Atomic Weight, Atomic Radius, Electronegativity, First Ionization Potential, and Density.
 
 If you have trouble with this assignment, you may wait for when we talk a bit more about tables and structures in MATLAB.
