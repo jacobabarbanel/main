@@ -12,11 +12,11 @@ Problem
 -------
 Instead of working with many separate but related arrays, you can construct `tables` and `structures` of related data not of the same type. Today, I want you to load data about the periodic table into MATLAB and manipulate that data as a `table` and as a `struct`. You should then construct a script that uses indexing to sift through the data and answer various questions about it.
 
-1. Create and save a new script called periodic2.m
+1. Create and save a new script called `periodic2.m`
 1. Write a script that:
-a. Imports your file PeriodicTable.csv (the same file from Problem 2). How you import the file is your choice.
-b. Transforms (if needed) the data into a table
-c. Answers the questions below. (You should NOT be hardcoding the answers in the program, but writing code that answers them. You should NOT be typing out the answers in comments at any point).
+* Imports your file `PeriodicTable.csv` (the same file from Problem 2). How you import the file is your choice.
+* Transforms (if needed) the data into a table
+* Answers the questions below. (You should NOT be hardcoding the answers in the program, but writing code that answers them. You should NOT be typing out the answers in comments at any point).
 1. In the same script, repeat Step 2 using a struct to store the data.
 
 Questions 
